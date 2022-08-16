@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">myApp</string>
+    <string name="titulo">Adivina el numero 1-5</string>
+    <string name="guia">Digita</string>
+    <string name="start">Adivinar</string>
+
 </resources>
