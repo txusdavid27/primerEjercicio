@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     Button boton;
     TextView mensaje;
     private Integer ale;
+    private Integer num;
     private int contador=0;
     public static final String APP_NAME="NUEVA_SUPER_APP";
 
@@ -34,14 +35,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try{
-                    if(Integer.parseInt(campo.getText().toString())==ale){
-                        mensaje.setText("Bien hecho!");
+                    num = Integer.parseInt(campo.getText().toString());
+                    if(num>ale){
+                        mensaje.setText("Pista: "+num+" es mayor que el numero.");
+                    }else if(num<ale){
+                        mensaje.setText("Pista: "+num+" es menor que el numero.");
                     }else{
-                        contador++;
-                        mensaje.setText("Mal hecho:(");
-                        mensaje.setText("");
+                        mensaje.setText("Grande!: "+num+" es el numero.");
+                        boton.setEnabled(false);
                     }
-
                 }catch (Exception e){}
             }
         });
