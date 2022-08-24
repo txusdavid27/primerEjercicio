@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">taller</string>
+    <string name="op">Operacion:\nResultado:</string>
+    <string name="paises">PAISES</string>
+    <string name="factorial">FACTORIAL</string>
+    <string name="posiciones">Posiciones...</string>
+    <string name="fibonacci">FIBONACCI</string>
+    <string name="taller_1">Taller 1</string>
+    <string name="capital">Capital:</string>
+    <string name="nombre_pais">Nombre pais:</string>
+    <string name="nombre_internacional">Nombre internacional:</string>
+    <string name="sigla">Sigla:</string>
+    <string-array name="valor">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+
+    </string-array>
+</resources>

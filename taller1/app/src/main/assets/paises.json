@@ -1,0 +1,157 @@
+{
+  "paises":[
+    { "capital" : "Berlin",
+      "nombre_pais" : "Alemania",
+      "nombre_pais_int" : "Germany",
+      "sigla" : "DE",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+    },
+    { "capital" : "Buenos Aires",
+      "nombre_pais" : "Argentina",
+      "nombre_pais_int" : "Argentina",
+      "sigla" : "AR",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    { "capital" : "Canberra",
+      "nombre_pais" : "Australia",
+      "nombre_pais_int" : "Australia",
+      "sigla" : "AU",
+      "bandera" : "https://static.wikia.nocookie.net/esharrypotter/images/9/93/Bandera_de_Australia.png"
+    },
+    { "capital" : "Viena",
+      "nombre_pais" : "Austria",
+      "nombre_pais_int" : "Austria",
+      "sigla" : "AT",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_Austria.png/800px-Flag_of_Austria.png"
+    },
+    { "capital" : "Bruselas",
+      "nombre_pais" : "Bélgica",
+      "nombre_pais_int" : "Belgium",
+      "sigla" : "BE",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1200px-Flag_of_Belgium.svg.png"
+    },
+    { "capital" : "La Paz",
+      "nombre_pais" : "Bolívia",
+      "nombre_pais_int" : "Bolivia",
+      "sigla" : "BO",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/2560px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+    },
+    { "capital" : "Brasilia",
+      "nombre_pais" : "Brasil",
+      "nombre_pais_int" : "Brazil",
+      "sigla" : "BR",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+    },
+    { "capital" : "Santiago",
+      "nombre_pais" : "Chile",
+      "nombre_pais_int" : "Chile",
+      "sigla" : "CL",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_Chile.png"
+    },
+    { "capital" : "Bogotá",
+      "nombre_pais" : "Colombia",
+      "nombre_pais_int" : "Colombia",
+      "sigla" : "CO",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Colombia.png/1200px-Flag_of_Colombia.png"
+    },
+    { "capital" : "La Habana",
+      "nombre_pais" : "Cuba",
+      "nombre_pais_int" : "Cuba",
+      "sigla" : "CU",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Cuba.png"
+    },
+    { "capital" : "Quito",
+      "nombre_pais" : "Ecuador",
+      "nombre_pais_int" : "Ecuador",
+      "sigla" : "EC",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1024px-Flag_of_Ecuador.svg.png"
+    },
+    { "capital" : "Madrid",
+      "nombre_pais" : "España",
+      "nombre_pais_int" : "Spain",
+      "sigla" : "ES",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandera_de_Espa%C3%B1a_1978.png"
+    },
+    { "capital" : "Washington",
+      "nombre_pais" : "Estados Unidos",
+      "nombre_pais_int" : "United States",
+      "sigla" : "US",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png"
+    },
+    { "capital" : "Paris",
+      "nombre_pais" : "Francia",
+      "nombre_pais_int" : "France",
+      "sigla" : "FR",
+      "bandera" : "https://cdn.pixabay.com/photo/2013/07/13/14/15/france-162295__480.png"
+    },
+    { "capital" : "Londres",
+      "nombre_pais" : "Reino Unido",
+      "nombre_pais_int" : "United Kingdom",
+      "sigla" : "GB",
+      "bandera" : "https://img2.freepng.es/20180326/gre/kisspng-england-flag-of-the-united-kingdom-flag-of-great-b-england-5ab872a144d506.7267652915220374092819.jpg"
+    },
+    { "capital" : "Atenas",
+      "nombre_pais" : "Grecia",
+      "nombre_pais_int" : "Greece",
+      "sigla" : "GR",
+      "bandera" : "https://planificatuviaje.es/wp-content/uploads/2020/09/flag-800-5.png"
+    },
+    { "capital" : "Amsterdam",
+      "nombre_pais" : "Holanda",
+      "nombre_pais_int" : "Netherlands",
+      "sigla" : "NL",
+      "bandera" : "https://planificatuviaje.es/wp-content/uploads/2020/09/flag-800-123.png"
+    },
+    { "capital" : "Budapest",
+      "nombre_pais" : "Hungria",
+      "nombre_pais_int" : "Hungary",
+      "sigla" : "HU",
+      "bandera" : "https://planificatuviaje.es/wp-content/uploads/2020/09/flag-800-138.png"
+    },
+    { "capital" : "Dublin",
+      "nombre_pais" : "Irlanda",
+      "nombre_pais_int" : "Ireland",
+      "sigla" : "IE",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png"
+    },
+    { "capital" : "Reykjavik",
+      "nombre_pais" : "Islandia",
+      "nombre_pais_int" : "Iceland",
+      "sigla" : "IS",
+      "bandera" : "https://flagcdn.com/w2560/is.png"
+    },
+    { "capital" : "Jerusalen",
+      "nombre_pais" : "Israel",
+      "nombre_pais_int" : "Israel",
+      "sigla" : "IL",
+      "bandera" : "https://img2.freepng.es/20180320/dwe/kisspng-flag-of-israel-national-flag-illustration-high-resolution-israel-flag-png-clipart-5ab1a375e201a8.1468477315215911579257.jpg"
+    },
+    { "capital" : "Roma",
+      "nombre_pais" : "Italia",
+      "nombre_pais_int" : "Italy",
+      "sigla" : "IT",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"
+    },
+
+    { "capital" : "Tokyo",
+      "nombre_pais" : "Japón",
+      "nombre_pais_int" : "Japan",
+      "sigla" : "JP",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+    },
+
+    { "capital" : "Montevideo",
+      "nombre_pais" : "Uruguay",
+      "nombre_pais_int" : "Uruguay",
+      "sigla" : "UY",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/270px-Flag_of_Uruguay.svg.png"
+    },
+
+    { "capital" : "Caracas",
+      "nombre_pais" : "Venezuela",
+      "nombre_pais_int" : "Venezuela",
+      "sigla" : "VE",
+      "bandera" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png"
+    }
+  ]
+}
